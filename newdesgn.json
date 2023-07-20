@@ -1,0 +1,307 @@
+[{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0e5"
+  },
+  "name": "Dr.K.Madhavi",
+  "designation": "Professor and Head"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0e6"
+  },
+  "name": "Dr.K.Anuradha",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0e7"
+  },
+  "name": "Prof.G.Mallikarjuna Rao",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0e8"
+  },
+  "name": "Dr.B.Srinivasa Rao",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0e9"
+  },
+  "name": "Dr.G.S.Bapi raju",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0ea"
+  },
+  "name": "Dr.P.Chandra Sekhar Reddy",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0ec"
+  },
+  "name": "Dr.K.Butchi Raju",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0ed"
+  },
+  "name": "Dr.B Shankar Babu",
+  "designation": "Professor and dean ict"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0ee"
+  },
+  "name": "Dr.R.Shakti dharan",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0ef"
+  },
+  "name": "Dr.S.Govinda Rao",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f0"
+  },
+  "name": "Dr.Bina Bethel",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f1"
+  },
+  "name": "Dr.G.Charles Babu",
+  "designation": "Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f2"
+  },
+  "name": "Dr.K.Kavita",
+  "designation": "associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f3"
+  },
+  "name": "Dr.  P Varaprasad Rao",
+  "designation": "Professor and dean"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f4"
+  },
+  "name": "R.Aruna Flarence",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f5"
+  },
+  "name": "Dr.G.Ramesh",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f6"
+  },
+  "name": "Dr.S.Bhargavi Latha",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f7"
+  },
+  "name": "Dr.Ashlin Deepa R. N",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f8"
+  },
+  "name": "Dr.Sushmita Valli. G",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0f9"
+  },
+  "name": "neha nandal",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0fa"
+  },
+  "name": "Dr.Lipika Goel",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0fb"
+  },
+  "name": "Dr.Krishna Bhargavi Y",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0fc"
+  },
+  "name": "Dr.V Sri lakshmi",
+  "designation": "Associate Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0fd"
+  },
+  "name": "K. Anusha",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0fe"
+  },
+  "name": "K.Adi lakshmi",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba0ff"
+  },
+  "name": "B.Lalitha",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba100"
+  },
+  "name": "B.Rupa",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba101"
+  },
+  "name": "Anil Kumar",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba102"
+  },
+  "name": "STGY.Sandhya",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba103"
+  },
+  "name": "Sunita.K.Ch",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba104"
+  },
+  "name": "Soujanya",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba105"
+  },
+  "name": "B.Padma Vijetha Dev",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba106"
+  },
+  "name": "D.Suguna Kumari",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba107"
+  },
+  "name": "P.Rajesh",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba108"
+  },
+  "name": "soumya",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba109"
+  },
+  "name": "V.Kirti",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba10a"
+  },
+  "name": "N Krishna Chythanya",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba10b"
+  },
+  "name": "B.Sindhuja",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba10d"
+  },
+  "name": "Bh.Prashanti",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba10e"
+  },
+  "name": "R.Shanmuka Shalini",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba110"
+  },
+  "name": "P .Surekha",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba111"
+  },
+  "name": "D.Usha sree",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba113"
+  },
+  "name": "V.Srinivas",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba114"
+  },
+  "name": "A.Swati",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba115"
+  },
+  "name": "B. Pushpa",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba116"
+  },
+  "name": "C. Sravani",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba117"
+  },
+  "name": "rubina rustum",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba11a"
+  },
+  "name": "Channa basama",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba11b"
+  },
+  "name": "Dr. Y.Lakshmi Prasanna",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba11d"
+  },
+  "name": "K.Chandra Mouli",
+  "designation": "Assistant Professor"
+},{
+  "_id": {
+    "$oid": "640b0864fe34b1d0366ba11e"
+  },
+  "name": "Ch.Sahiti",
+  "designation": "Assistant Professor"
+}]

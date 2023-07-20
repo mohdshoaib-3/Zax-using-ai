@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429a7"
+  },
+  "tag": "transport",
+  "response": "GRIET provides bus facility to students through various places like Panvel, Kharghar, Uran, Alibag, Pen, Karjat for more details visit the below link",
+  "link_source": "https://www.griet.ac.in/transport.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429a8"
+  },
+  "tag": "placement",
+  "response": "GRIET has a dedicated department to train students for placemnts.Various companies are coming to recruite our students and offer maximum packages.MAIN RECRUITERS are TCS,Capgemini,L AND T INFOTECH, Accenture etc.For more information visit the below link ",
+  "link_source": "http://www.griet.ac.in/placements.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429a9"
+  },
+  "tag": "library",
+  "response": "GRIET library and Information Centre supports teaching-learning and research activities. It consists of central library and department libraries. For more details visit the below link",
+  "link_source": "http://www.griet.ac.in/library.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429aa"
+  },
+  "tag": "admission",
+  "response": "Admissions to the Institute are made along with the other Engineering colleges in the state through a common entrance test (EAMCET) conducted by the Govt. of Telangana State.Pleaase refer the below link for more details",
+  "link_source": "http://www.griet.ac.in/admission_procedure.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429ab"
+  },
+  "tag": "canteen",
+  "response": "college has a canteen for more details visit the below link",
+  "link_source": "https://www.griet.ac.in/infrastructure_canteen.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429ac"
+  },
+  "tag": "events",
+  "response": "Our college organizes various events during a year.Many Events are useful for technical skils and placements activities.There are many events which are held by Students for more details visit the below link",
+  "link_source": "http://www.it.griet.ac.in/events.html"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429ad"
+  },
+  "tag": "timing",
+  "response": "College is open 9am-5pm Monday-Saturday!",
+  "link_source": ""
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429ae"
+  },
+  "tag": "contact number",
+  "response": "you can contact the college for more details visit the below link",
+  "link_source": "https://www.griet.ac.in/contactus.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429af"
+  },
+  "tag": "fees",
+  "response": "for fees details visit the below link",
+  "link_source": "http://www.griet.ac.in/fee_structure.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b0"
+  },
+  "tag": "principal",
+  "response": "Dr. J Praveen is college principal who is available on adminstrative block. To know more about principal visit the below link",
+  "link_source": "http://www.griet.ac.in/principal.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b1"
+  },
+  "tag": "college intake",
+  "response": "For Computer and Civil, the intake is 120.For IT, Electrical, EXTC and Automobile 60 per batch. Mechanical Department has 180 students intake",
+  "link_source": ""
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b2"
+  },
+  "tag": "uniform",
+  "response": "GRIET does not have uniform, but students are expected to be in formal for more details visit the below link",
+  "link_source": "https://www.griet.ac.in/images/Code%20of%20conduct%20for%20Students-GRIET.pdf"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b3"
+  },
+  "tag": "",
+  "response": "",
+  "link_source": ""
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b4"
+  },
+  "tag": "hod",
+  "response": "every branch has their own hods for more details viit the below link",
+  "link_source": "https://www.griet.ac.in/hods.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b5"
+  },
+  "tag": "scholarship",
+  "response": "griet supports many governments scholarships for more details visit the below link",
+  "link_source": "https://mahadbtmahait.gov.in/Home/Index"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b6"
+  },
+  "tag": "faculty",
+  "response": "GRIET has a highly qualified and experienced faculty. for more details visit the below link",
+  "link_source": "https://www.griet.ac.in/staff.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b7"
+  },
+  "tag": "sports",
+  "response": "GRIET encourages all-round development of students and hence provides sports facilities in the campus, we also organize sports day every year. For more details visit the below link",
+  "link_source": "https://www.griet.ac.in/sports.php"
+},{
+  "_id": {
+    "$oid": "64808aa077b3c168bd3429b8"
+  },
+  "tag": "fest",
+  "response": "\"GRIET encourages all-round development of students and hence organizes vibrant fests like pulse and pragnya in the campus. For more details visit the below link",
+  "link_source": "http://www.it.griet.ac.in/pulse.html#"
+}]

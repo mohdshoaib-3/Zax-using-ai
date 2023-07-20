@@ -1,0 +1,265 @@
+[{
+  "_id": {
+    "$oid": "640c4361ff473812c5ac221a"
+  },
+  "name": "Dr.K.Madhavi",
+  "Courses Taught": "Operating Systems,Principles of Programming languages,Design and Analysis of Algorithms,Software Engineering,Object Oriented Analysis and Design,Software Architecture,Design Patterns,Software Requirements Estimation,Software Project Management,Embedded Systems,Software Testing Methodologies,C Programming,Computer Organization and Architecture,Distributed Computing"
+},{
+  "_id": {
+    "$oid": "640c49bdff473812c5ac221b"
+  },
+  "name": "Dr.K.Anuradha",
+  "Courses Taught": "Data Warehousing and Mining,Compiler Design,DatabaseManagement Systems,C programming & Data Structures,OOPS throughJava,Advanced Data Structures,Database Management Systems Lab,C Programming & DataStructures Lab,Advanced Databases lab,Java Programming lab,Advanced Computer Networks"
+},{
+  "_id": {
+    "$oid": "640c49deff473812c5ac221c"
+  },
+  "name": "Dr. G.S.Bapi raju",
+  "Courses Taught": "Computer Networks,Advanced Computer Networks,Data communication systems,Cloud Computing,Mobile Computing,Computer Systems and Architecture,Computer Organization,Advanced Computer Architecture,Operating Systems,Database Management Systems,Distributed Database Management Systems,Software Engineering,Object Oriented Analysis and Design,Digital Logic Design,Unix and Shell Programming,C Programming,E-Commerce"
+},{
+  "_id": {
+    "$oid": "640c4c06ff473812c5ac221d"
+  },
+  "name": "Dr. P. Chandra Sekhar Reddy",
+  "Courses Taught": "Formal Languages and Automata Theory,Compiler Design,Computer System Design,Cloud Computing Applications,Software Testing Methodologies,Computer Organization,C and Data Structures"
+},{
+  "_id": {
+    "$oid": "640c4e9dff473812c5ac221e"
+  },
+  "name": "Dr. Cherukupalli. Mallikarjuna Rao",
+  "Courses Taught": "Object Oriented Programming through Java,Database Management Systems,Software Testing Methodologies,Software Project Management,Datawarehouse and Mining,Unified Modeling Languages,Distributed Databases"
+},{
+  "_id": {
+    "$oid": "640c4f6fff473812c5ac221f"
+  },
+  "name": "Dr. B Shankar Babu",
+  "Courses Taught": "Software Engineering,Computer Networks,Unix and Shell Programming,Web Technologies,Distributed Systems,Data Ware Housing and Data Mining,Data Base Management Systems,Operating Systems,Data Mining and Data warehousing,Principles of Programming Languages"
+},{
+  "_id": {
+    "$oid": "640c50deff473812c5ac2220"
+  },
+  "name": " Dr.G. R.Shakti dharan",
+  "Courses Taught": "Information Retrieval Systems,Open Source Laboratory,Network Programming,Mobile Computing,Distributed computing,Information Retrieval system,Multi-core computers: architecture and programming,Principles of E-Commerce,Microcontrollers,Microcontrollers Laboratory,E-Commerce and its applications,Enterprise Resource Planning,Free Open Source System"
+},{
+  "_id": {
+    "$oid": "640c5475ff473812c5ac2221"
+  },
+  "name": "Dr S Govinda Rao",
+  "Courses Taught": "Computer Networks,Object Oriental Analysis and Design,Unix and Shell Programming,Computer Organization,Digital Logic Design,Network Programming,\nLinux Programming,Networks(For M.Tech),Object Oriented Modeling (For M.Tech),Discrete Data Base(for M.Tech),"
+},{
+  "_id": {
+    "$oid": "640c547aff473812c5ac2222"
+  },
+  "name": "Dr.G.N. Bina Bethel",
+  "Courses Taught": "Digital logic Design (DLD),C & Datastructures (C & DS),Datawarehousing and datamining(DMDW),Computer Networks(CN),Data Communication(DC),Discrete Structures and Graph Theory (DSGT),Software Engineering (SE),Switching Theory andLogic Design(STLD),Information Technology and Numerical Methods(ITNM).,Object Oriented Analysis and Design (OOAD),Software Project Management (SPM)"
+},{
+  "_id": {
+    "$oid": "640c547cff473812c5ac2223"
+  },
+  "name": "Dr.G.Charles Babu",
+  "Courses Taught": "Software Engineering,Data Ware Housing and Data Mining,Software Testing Methodologies,Cloud Computing,Computer Organization,Software Project Management,Operating Systems,Principles of Programming Languages,"
+},{
+  "_id": {
+    "$oid": "640c56c7ff473812c5ac2226"
+  },
+  "name": "Dr. Kayiram Kavita",
+  "Courses Taught": "Research Methodology &IPR,Object Oriented Analysis and Design,Object Oriented Programming using Java,Computer Programming I,Object Oriented Programming & Design using Java,Graphs & Networks,Software Engineering and Management,Object Oriented Analysis and Design using UML,Discrete Structures for Computer Science,Computer Graphics,Mathematical Modeling & Simulation,Cryptography and Network Security,Multimedia and Web Design,Web Technologies,Discrete Structures for Computer Science,Software Engineering,Multimedia Web Design,Object Oriented Programming and Design,Software Engineering"
+},{
+  "_id": {
+    "$oid": "640c5794ff473812c5ac2227"
+  },
+  "name": "Dr. P Varaprasad Rao",
+  "Courses Taught": "Information Security,Cloud Computing,Mathematical Foundation of Computer Science,Software Testing Methodologies,Mobile Computing,Operating Systems,Computer Networks,Web Technologies,Principles of E-Commerce,Human Computer Interaction,OOAD,Software Engineering"
+},{
+  "_id": {
+    "$oid": "640c5794ff473812c5ac2228"
+  },
+  "name": "R.Aruna Flarence",
+  "Courses Taught": "1. Advanced Data Structures Through C++,2. C and Data Structures,3. Compiler Design,4. Software Engineering,5. Object Oriented Programming Through Java,6. Web Technologies,7. Design and Analysis of Algorithms,8. Data Ware Housing and Data Mining,9. Data Base Management Systems,10. Operating Systems,B. Tech(CSE) : Labs,1. Java Programming Lab,2. Advanced Data Structures Through C++ Lab,3. Unix and Compiler Design Lab,4. C and Data Structures Lab,5.C Programming Lab"
+},{
+  "_id": {
+    "$oid": "640c5794ff473812c5ac2229"
+  },
+  "name": "Dr. Ramesh",
+  "Courses Taught": "Operating Systems,Database Management Systems,Discrete Mathematics,Computer Networks,Object Oriented Analysis and Design,Computer Graphics,,Model Driven Software Engineering,Software Testing,Software Reliability,Secure Software Engineering,Middleware Technologies"
+},{
+  "_id": {
+    "$oid": "640c585bff473812c5ac222a"
+  },
+  "name": "Dr.S.Bhargavi Latha",
+  "Courses Taught": "Computer Organization,Digital Logic Design,Microprocessors And Micro Controllers,Microcontrollers,Embedded Systems,C Programming & Data Structures,Operating Systems,VLSI Design,Digital System Design Through VHDL,Analog Communications,Gender Sensitization,Digital Integrated Circuits And Application,C Programming Lab,Microprocessors And Micro Controllers Lab,Micro Controllers Lab,Operating Systems Lab,Operating Systems And Unix Lab,Embedded Systems Lab"
+},{
+  "_id": {
+    "$oid": "640c585bff473812c5ac222b"
+  },
+  "name": "Dr. Sushmita Valli. G",
+  "Courses Taught": "Programming for problem solving,C,C++,Operating system,Object oriented programming through C++,Objected Oriented Analysis and Design,Computer Networks,Data structures,Software Engineering,System Programming,Computer Organization and architecture,Advanced Computer Architecture,Bioinformatics"
+},{
+  "_id": {
+    "$oid": "640c585bff473812c5ac222c"
+  },
+  "name": "Dr.Krishna Bhargavi Y",
+  "Courses Taught": "Database Management Systems,Big Data Analytics,Digital Logic Design,Software Engineering,Mobile Computing,Human Computer Interaction,Computer Organization and Operating Systems,Compiler Design,Scripting Languages Lab,Database Management Systems Lab,C Programming Lab,Advanced Databases Lab"
+},{
+  "_id": {
+    "$oid": "640c591dff473812c5ac222d"
+  },
+  "name": "Dr.V Sri lakshmi",
+  "Courses Taught": "1. Business Intelligence,2. Big Data Analytics,3. Data Warehousing and Mining,4. Compiler Design,5. Unix and Shell Programming,6. Database Management Systems,7. Mobile Communications & Applications,8. Principles of Programming languages,9. C programming & Data Structures,10. Operating Systems,B. Tech(CSE) : Labs,1. Database Management Systems Lab,2. C Programming & Data Structures Lab,3. Unix and Shell Programming Lab,4. Advanced Databases lab,5. Java Programming lab"
+},{
+  "_id": {
+    "$oid": "640c591dff473812c5ac222e"
+  },
+  "name": "K.Anusha",
+  "Courses Taught": "1. Discrete Mathematics,2. Web Technologies,3. Data Base Management Systems,B. Tech(CSE) : Labs,1. Advanced Data Structures Through C++ Lab,2. Data Base Management Systems Lab,3. Web Technologies Lab,4. Scripting Languages Lab"
+},{
+  "_id": {
+    "$oid": "640c591dff473812c5ac222f"
+  },
+  "name": "K.Adi lakshmi",
+  "Courses Taught": "1. Formal languages of Automata theory,2. Human Computer Interaction,3. Unified modeling languages,4. Software Engineering,5. C programming and Data Structures"
+},{
+  "_id": {
+    "$oid": "640c59c6ff473812c5ac2230"
+  },
+  "name": "B.Lalita",
+  "Courses Taught": "Principles of Programming languages,2. Web Technologies,3. Compiler Design,4. Unix and Shell Programming,5. Information Retrieval System,B. Tech(CSE) : Labs,1. Database Management Systems Lab,2. C Programming & Data Structures Lab,3. Unix and Shell Programming Lab,4. C++ Programming lab,5. Java Programming lab,6. Web Technologies Lab,7. Compiler Design Lab,8. Web Technologies lab,9. Scripting Languages lab"
+},{
+  "_id": {
+    "$oid": "640c59c6ff473812c5ac2231"
+  },
+  "name": "B.Rupa",
+  "Courses Taught": "Big Data Analytics,Essentials of Big Data Analytics,Business Intelligence,C Programming,Data Structures,Operating Systems,Compiler Design,Computer Networks,Principles of Programming Languages"
+},{
+  "_id": {
+    "$oid": "640c59c6ff473812c5ac2232"
+  },
+  "name": "G Anil Kumar",
+  "Courses Taught": "Advanced Problem solving,,Advanced Computer Networks,,Computer system design,,Object oriented modelling,Advanced Data structures,Unified Modelling Language"
+},{
+  "_id": {
+    "$oid": "640c5ab1ff473812c5ac2233"
+  },
+  "name": "S T G Y SANDHYA",
+  "Courses Taught": "Computer programming.,Data structures.,Programming through problem solving.,Network security,Digital Logic Design,Computer organization and architecture,Artificial intelligence,Advanced Computer architecture,Database management systems,Object Oriented Aanalysis and Design,Design and analysis of algorithm.,Formal languages and automata Theory.,OOPS through Java,Advanced data sturctures using c++,Compiler Design,Mathematical foundation of computer science"
+},{
+  "_id": {
+    "$oid": "640c5ab1ff473812c5ac2234"
+  },
+  "name": "R.sowjanya",
+  "Courses Taught": "Database Management Systems,Mobile Communications & Applications,Cloud Computing,C programming & Data Structures,Operating Systems,Mathematical Foundation of Computer Science,Big Data Analytics"
+},{
+  "_id": {
+    "$oid": "640c5ab1ff473812c5ac2235"
+  },
+  "name": "B.Padma Vijetha Dev",
+  "Courses Taught": "Web Technologies,Computer Networks,Software Engineering,Mobile Computing Applications,Human Computer Interaction,Object Oriented Programming through Java,Data Warehousing and Data Mining,Database Management Systems Lab,Web Technologies Lab,Unix Shell Programming and Compiler Design Lab,Industry Oriented Mini Projects Lab,MicroControllers Lab,Information Security and Data Mining & Data Warehousing Lab"
+},{
+  "_id": {
+    "$oid": "640c8346ff473812c5ac2239"
+  },
+  "name": "D. Suguna Kumari",
+  "Courses Taught": "Operating Systems,Computer Networks,Computer programming.,Data structures.,Programming through problem solving.,network security,Network programming,Artificial intelligence,Biometrics,Computer organization and architecture,Database management systems,Software testing methodologies"
+},{
+  "_id": {
+    "$oid": "640c8346ff473812c5ac223b"
+  },
+  "name": "soumya",
+  "Courses Taught": "Programming for Problem Solving, C Programming Lab,C Programming & Data Structures Lab"
+},{
+  "_id": {
+    "$oid": "640c84c2ff473812c5ac223c"
+  },
+  "name": "N Krishna Chythanya",
+  "Courses Taught": "C Programming,OOPs Through JAVA,C++,DS through C++,COBOL,Unix,Software Engineering,Software Requirements and Estimation,SPPM,Software Testing Methodologies,Testing Tools,UML/OOAD,Operating Systems,Compiler Design,Wireless Application Proctocol,Computer Organization,Management Information Systems(for MBA),Human Values and Professional Ethics,Gender Sensitization,Artificial Intelligence,Artifical Intelligence and Nueral Networks,Neural Networks and Fuzzy Logic,Machine Learning"
+},{
+  "_id": {
+    "$oid": "640c84c2ff473812c5ac223d"
+  },
+  "name": "Boda Sindhuja",
+  "Courses Taught": "Digital Logic Design, Digital Logic Design Lab,OOP’s through JAVA Lab,IT WORKSHOP"
+},{
+  "_id": {
+    "$oid": "640c84c2ff473812c5ac223e"
+  },
+  "name": "Bh.Prashanti",
+  "Courses Taught": "Computer Programming,Advanced Data Structures through C++,Mathematical Foundation for Computer Science,Operating Systems"
+},{
+  "_id": {
+    "$oid": "640c84c2ff473812c5ac223f"
+  },
+  "name": "R.S.Shalini",
+  "Courses Taught": "Computer programming and Data Structures,Computer programming,Programming for problem solving,Data Structures"
+},{
+  "_id": {
+    "$oid": "640c84c2ff473812c5ac2240"
+  },
+  "name": "Ms P.Surekha",
+  "Courses Taught": "1. DBMS,2. Software Testing Methodology,3. MFCS,4. Software Project Management,5. Computer Organization,6. C and Data structures.,7. Distributed Databases,8. Software Process and Project Management"
+},{
+  "_id": {
+    "$oid": "640c8636ff473812c5ac2242"
+  },
+  "name": "Ms. Usha Sree",
+  "Courses Taught": "Digital Logic Design,Adhoc Sensor Networks,Computer Networks,Computer organization,Computer Graphics,Operating Systems,"
+},{
+  "_id": {
+    "$oid": "640c8636ff473812c5ac2243"
+  },
+  "name": "T.V.Sunita",
+  "Courses Taught": "Formal Languages and Automata Theory,Computer Organization,Operating Systems,Mathematical Foundations of Computer Science,C & Data Structures,Computer Networks,Digital Logic Design"
+},{
+  "_id": {
+    "$oid": "640c8636ff473812c5ac2244"
+  },
+  "name": "Mr V Srinivas",
+  "Courses Taught": "Operating Systems,Formal Languages and Automata Theory,Compiler Design,Operating Systems,Database management Systems,Software Project management,Design and Analysis of Algorithms,Software Engineering"
+},{
+  "_id": {
+    "$oid": "640c8636ff473812c5ac2245"
+  },
+  "name": "Ms A. Swati",
+  "Courses Taught": "1. DBMS,2. OOPs,3. Operating Systems,4. C Language,5. Computer Networks,6. Advanced Java,7. Data Mining"
+},{
+  "_id": {
+    "$oid": "640c8636ff473812c5ac2246"
+  },
+  "name": "B. Pushpa",
+  "Courses Taught": "1. DBMS,2. Software Testing Methodology,3. MFCS,4. Software Project Management,5. Computer Organization,6. C and Data structures.,7. Distributed Databases,8. Software Process and Project Management"
+},{
+  "_id": {
+    "$oid": "640c8636ff473812c5ac2247"
+  },
+  "name": "B. tejasvi",
+  "Courses Taught": "C programming,Programming for Problem Solving,Linux Programming,Object-Oriented Analysis and Designation,Object-Oriented Programming through Python,Software Testing Methodologies,Image Processing,Mobile Computing,Wireless Sensor Networks,Computer Organization"
+},{
+  "_id": {
+    "$oid": "640c88a7ff473812c5ac2248"
+  },
+  "name": "Mrs. Channa basamma",
+  "Courses Taught": "Hadoop,Design and Analysis of Algorithms,Big Data Analytics,Data Warehousing and Data Mining,Operating Systems,,Formal Languages and Automaton theory,Discrete Mathematical Structures,,Data Structures,,Computer programming,Data Base management Systems,Computer Graphics,,Storage Area Networks,Wireless Networks and Mobile Computing,Data Communication and Networking"
+},{
+  "_id": {
+    "$oid": "640c88a7ff473812c5ac2249"
+  },
+  "name": "Y.Lakshmi Prasanna",
+  "Courses Taught": "C & Data Structures.,Object Oriented Programming.,Basics of Python Programming.,Formal Languages and Automata Theory.,Design and Analysis of Algorithms.,Compiler Design.,Computer Organization.,Software Engineering.,Computer Graphics.,Mobile Application Development."
+},{
+  "_id": {
+    "$oid": "640c88a7ff473812c5ac224a"
+  },
+  "name": "Mr.A Nagender Babu",
+  "Courses Taught": "Cloud Computing,Operating System,Data Base management Systems,Software Engineering"
+},{
+  "_id": {
+    "$oid": "640c88a7ff473812c5ac224b"
+  },
+  "name": "Mr.K Chandra Mouli",
+  "Courses Taught": "Cloud Computing,Design and Analysis of Algorithms,Data Base management Systems,MFCS,STM,SE"
+},{
+  "_id": {
+    "$oid": "640c88a7ff473812c5ac224c"
+  },
+  "name": "Ms.Ch.Sahiti",
+  "Courses Taught": "C programming,Programming for Problem Solving,object Oriented Programming through C++,oops through Java"
+}]
